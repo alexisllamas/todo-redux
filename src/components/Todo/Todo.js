@@ -3,7 +3,7 @@ import AddTodo from './AddTodo';
 import Task from './Task';
 import Filter from './Filter';
 
-const filterTodos = function(todos, filter) {
+const filterTodos = (todos, filter) => {
   if(filter === 'all') {
     return todos;
   }
