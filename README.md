@@ -1,3 +1,3 @@
 ## Todo
 
-Simple todo in React
+Simple todo in React and Redux!
